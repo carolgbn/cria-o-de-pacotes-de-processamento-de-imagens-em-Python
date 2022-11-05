@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.0.1
+Summary: image Processing Package using Python
+Home-page: https://github.com/carolgbn/criacao-de-pacotes-de-processamento-de-imagens-em-Python
+Author: Ana Carolina
+Author-email: anacarolgbn@hotmail.com
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+
 # image_processing
 
 Description. 
